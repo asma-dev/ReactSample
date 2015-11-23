@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+.container-fluid {
+	text-align: center;
+}
+
+.helloWorld {
+	margin-top: 150px;
+}
